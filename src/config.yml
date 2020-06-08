@@ -27,7 +27,7 @@ logPings: true
 logPingsFolder: pings
 
 # Custom Logger (Put EventNames that should be logged in the list)
-logEvents: false
+logEvents: true
 logEventsFolder: custom
 logEventsEvents:
   - 'BlockBreakEvent'
